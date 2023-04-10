@@ -4,7 +4,7 @@
 
 Nesse desafio foi proposto a fazer dois layouts, um que seria um desafio intermediario e outro que seria um desafio mais avançado.
 
-- Layout intermediario - Pronto
+- Layout intermediario - Pronto - Main Branch
 - Layout Avançado - Em desenvolvimento.
 
 #
