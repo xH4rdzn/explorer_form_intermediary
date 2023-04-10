@@ -7,9 +7,9 @@ Nesse desafio foi proposto a fazer dois layouts, um que seria um desafio interme
 - Layout intermediario - Pronto
 - Layout Avançado - Em desenvolvimento.
 
-## 📝 Stack utilizada
-
 #
+
+## 📝 Stack utilizada
 
 **Front-end:** HTML, CSS
 
